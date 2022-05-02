@@ -1,5 +1,5 @@
 #папка tmp
-tmp\
+tmp/
 
 #файлы с суффикасми _old, _backup
 *_old.*
